@@ -1,5 +1,5 @@
-# Assembly
-Assembly Lib
+# CrowASM
+Crow Assembly Lib
 
 # Install NASM
 sudo apt-get install nasm
